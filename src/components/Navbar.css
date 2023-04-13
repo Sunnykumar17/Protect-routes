@@ -1,0 +1,25 @@
+.navbar{
+    width: 100vw;
+    height: 10vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h2{
+    width: 40%;
+    padding-left:60px ;
+}
+.ul{
+   width: 60%;
+   display: flex;
+}
+.li{
+    margin-left: 20px;
+    padding-left: 50px;
+    list-style: none;
+}
+.btn{
+    margin-left: 20px;
+}
